@@ -192,8 +192,8 @@ ol {
   height: 103px;
 }
 
-content__card-link_current {
-  background-color: #545050;
+.content__card-link_current {
+  background-color: rgba(84, 80, 80, 0.6);
 }
 
 .content__card-link:active {
